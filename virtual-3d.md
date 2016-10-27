@@ -107,8 +107,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Kerchove Jordy
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jordy.vankerchove@student.kdg.be
+	- github: https://github.com/JordyVanKerchove/software-engineering-oplossingen.git
 
 - Vanvelk Thomas
 	- e-mailadres: thomas.vanvelk@student.kdg.be
