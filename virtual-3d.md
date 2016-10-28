@@ -3,8 +3,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Bauwens Stefan
-	- e-mailadres: stefan.bauwens@student.kdg.be
-	- github: https://github.com/StefanBauwens/software-engineering-oplossingen
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Bellekens Michael
 	- e-mailadres: naam@student.kdg.be
@@ -23,8 +23,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Meyer Sam
-	- e-mailadres: sam.demeyer@student.kdg.be
-	- github: https://github.com/samdemeyer/SoftwareEngineeringOpdrachten.git
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Demulder Joppe
 	- e-mailadres: naam@student.kdg.be
@@ -91,8 +91,8 @@
 	- github: https://github.com/jordenvb/software-engineering-oplossingen.git
 
 - Van den Eynde Kilian
-	- e-mailadres: kilian.vandeneynde@student.kdg.be
-	- github: https://github.com/kilianvde/softwareopdrachten
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Flieberge Mathieu
 	- e-mailadres: naam@student.kdg.be
@@ -107,8 +107,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Kerchove Jordy
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jordy.vankerchove@student.kdg.be
+	- github: https://github.com/JordyVanKerchove/software-engineering-oplossingen.git
 
 - Vanvelk Thomas
 	- e-mailadres: thomas.vanvelk@student.kdg.be
